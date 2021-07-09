@@ -1,0 +1,5 @@
+name: GetLocale
+version: 0.0.1
+api-version: 1.16
+description: Get client locale
+main: dev.jonz94.getlocale.Plugin
